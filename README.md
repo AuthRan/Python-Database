@@ -46,6 +46,8 @@ then challenged myself to rebuild it on my own using SQLite3 and MongoDB.
 
 This helped me understand:
 CRUD operations in Python
+Working with different databases
+Structuring code into clean functions
 
 
 ## Screenshots
@@ -55,6 +57,3 @@ CRUD operations in Python
 
 
 
-Working with different databases
-
-Structuring code into clean functions
