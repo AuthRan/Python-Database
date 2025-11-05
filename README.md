@@ -53,6 +53,8 @@ Structuring code into clean functions
 ## Screenshots
 <img width="658" height="502" alt="image" src="https://github.com/user-attachments/assets/7e99f7d1-8f0d-4a4b-95fa-c31834fa6020" />
 
+---
+
 <img width="355" height="779" alt="image" src="https://github.com/user-attachments/assets/bf201686-7897-4fab-9669-62357b1f54f8" />
 
 
